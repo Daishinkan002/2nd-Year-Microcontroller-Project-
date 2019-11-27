@@ -63,13 +63,17 @@ A full adder logic is designed in such a manner that can take eight inputs toget
 
 ## Implemented Diagram :-
 
+<img src = "Implemented Diagram.png">
 
 
 
 
-
+---
 
 ## Truth Table Of Full Adder
+
+<img src = "Truth Table.jpg">
+
 
 
 
